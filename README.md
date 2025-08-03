@@ -17,7 +17,7 @@
 - [🎯 Problem Statement](#-problem-statement)
 - [🏗️ System Architecture](#️-system-architecture)
 - [💻 Technology Stack](#-technology-stack)
-- [📱 Illustrative Example](#-illustrative--example)
+- [📱 Illustrative Example](#-illustrative-example)
 - [📈 Future Enhancements](#-future-enhancements)
 - [📄 License](#-license)
 
