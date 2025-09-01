@@ -19,7 +19,6 @@
 - [💻 Technology Stack](#-technology-stack)
 - [📱 Illustrative Example](#-illustrative-example)
 - [📈 Future Enhancements](#-future-enhancements)
-- [📄 License](#-license)
 
 ---
 
@@ -212,19 +211,6 @@ Let’s go on a journey on our website to see how to register and process a scra
  
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License
-
-Copyright (c) 2025 GOGO Team
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction...
-```
 
 
 <div align="center">
